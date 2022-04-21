@@ -1,0 +1,10 @@
+{
+    "name": "Demo1",
+    "description": "desc info here",
+    "screenshots": null,
+    "vertical_applicability": ["sports","lifestyle"],
+    "creator": "Luke",
+    "version": "1.0.0",
+    "dataops_project_id": "123",
+    "deploy_url": "https://<somelambda>/deploy?dataops_project_id=123,foo=bar"
+}
